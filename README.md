@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JFlashy96
 - 👀 I’m interested in ... all aspects of software development!
-- 🌱 I’m currently learning ... how to implement a product from start to finish! I'm excited to own my product and learn new skills along the way towards it's succesful release
+- 🌱 I’m currently learning ... how to deploy and host my own web site using Django!
 - 📫 How to reach me ... jonalston50@gmail.com
 
 <!---
